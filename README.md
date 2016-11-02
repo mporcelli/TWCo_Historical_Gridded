@@ -17,7 +17,6 @@ Import high resolution, gridded historical weather observations for a set of loc
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[Historical Weather](http://goo.gl/DplOKj)
 
 ---
 
